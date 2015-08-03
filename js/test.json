@@ -1,0 +1,31 @@
+{
+    "devices": [
+        {
+            "id": "673",
+            "title": "raidho®HQ",
+            "description": "log_v2",
+            "location": "Monterrey, Mexico",
+            "city": "Monterrey",
+            "country": "Mexico",
+            "exposure": "indoor",
+            "elevation": "540.0",
+            "geo_lat": "25.682801800000000",
+            "geo_long": "-100.360868100000000",
+            "created": "2014-02-13 02:09:40 UTC",
+            "last_insert_datetime": "2015-08-03 04:08:06 UTC",
+            "posts": {
+                "timestamp": "2015-08-03 04:07:50 UTC",
+                "temp": 30.8,
+                "hum": 47.2,
+                "co": 78.82,
+                "no2": 112.42,
+                "light": 0,
+                "noise": 50,
+                "bat": 100,
+                "panel": 0,
+                "nets": 4,
+                "insert_datetime": "2015-08-03 04:08:06 UTC"
+            }
+        }
+    ]
+}
