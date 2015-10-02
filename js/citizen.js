@@ -1,13 +1,4 @@
-// Create Empty list
-var citizenInfo = function () {
-    var dataList = document.createElement("ul");
-    var dataLocation = document.getElementsByClassName("one-half");
-    dataLocation[0].appendChild(dataList);
-
-    var dataListItem = document.createElement("li");
-    dataList.appendChild(dataListItem);
-};
-
+// Store the API call in a variable
 var smartCitizenApiJson = "http://api.smartcitizen.me/v0.0.1/4d206b1eb3a453aa02ab2f71755c92a67c1bf374/lastpost.json";
 
 // Loop through data and print it to HTML
